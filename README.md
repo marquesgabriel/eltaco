@@ -4,3 +4,6 @@
 - O codigo fonte para arduino controlando 2 LEDs para _shift light_ e um display de 7 segmentos para exibir a marcha do carro;
 - *EM BREVE* Imagens ilustrando a ligação dos componentes na placa;
 - *EM BREVE* Pinagem e controle de um painel automotivo;
+
+### Inspirado em no projeto abaixo
+- [Link](http://www.technikprojekte.de/Projekte.php?src=Tacho)
