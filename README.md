@@ -5,5 +5,5 @@
 - *EM BREVE* Imagens ilustrando a ligação dos componentes na placa;
 - *EM BREVE* Pinagem e controle de um painel automotivo;
 
-### Inspirado em no projeto abaixo
+### Inspirado no projeto abaixo
 - [Link](http://www.technikprojekte.de/Projekte.php?src=Tacho)
